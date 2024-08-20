@@ -1,0 +1,5 @@
+framework module Dart {
+  umbrella header "Dart.h"
+  export *
+  module * { export * }
+}

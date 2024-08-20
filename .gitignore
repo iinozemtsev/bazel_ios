@@ -1,0 +1,12 @@
+*~
+/bazel-*
+/MODULE.bazel.lock
+.DS_Store
+xcuserdata/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+.build/
+Pods
+*.xcodeproj
